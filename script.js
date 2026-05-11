@@ -9,7 +9,7 @@ function openCertificationModal(imageSrc, title, verificationUrl) {
     imageUrl: imageSrc,
     imageAlt: title,
     imageWidth: 700,
-    imageHeight: 450,
+    imageHeight: 350,
     showCloseButton: true,
     showCancelButton: true,
     confirmButtonText: "View Verification",
